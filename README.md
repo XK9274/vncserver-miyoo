@@ -5,6 +5,7 @@ VNC Server for the Miyoo Mini Plus (upside down)
 Copy the folder into your App folder (OnionOS required or the ability to install manually)
 It will display upside down due to how MainUI is drawn.. you'll need to use a VNC client that can rotate.
 
+```
 - ./vncserver [-f device] [-p port] [-t touchscreen] [-k keyboard] [-r rotation] [-R touchscreen rotation] [-F FPS] [-v] [-h]
 - -p port: VNC port, default is 5900
 - -f device: framebuffer device node, default is /dev/fb0
@@ -15,6 +16,7 @@ It will display upside down due to how MainUI is drawn.. you'll need to use a VN
 - -F FPS: Maximum target FPS, default is 10
 - -v: verbose
 - -h: print this help
+```
 
 - Keyboard support works but only for SDLK inputs programmed into whatever you're using (so arrow keys work, space is enter) 
 - I suspect if SDL keys were programmed for the keyboard inputs for each key (such as in simple terminal) you'd be able to use these inputs too. 
