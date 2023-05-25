@@ -4,7 +4,7 @@ VNC Server for the Miyoo Mini Plus (upside down)
 ##
 ## Requirements
 - Onion OS (https://github.com/OnionUI/Onion) (Tested on Onion V4.2.0.2-beta and Onion V4.2.0.2-networking branch)
-- Latest firmware (Tested on 202305052130)
+- Recent firmware (Tested on 202305052130)
 
 ## Usage 
 Copy the folder into your App folder (OnionOS required or the ability to install manually)
