@@ -1,6 +1,6 @@
 {
 "label":	"VNC Server",
-"icon":	"icon.png",
+"icon":	"icon/icon.png",
 "launch":	"launch.sh",
 "description":	"Launches a VNC server"
 }
