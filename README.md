@@ -1,5 +1,7 @@
 # vncserver-miyoo
-VNC Server for the Miyoo Mini Plus (upside down)
+VNC Server for the Miyoo Mini Plus 
+
+Added a method for rotation by default, there's now 2 bins. It will default to the new one but in launch.sh you can comment in/out whatever you want.
 
 ##
 ## Requirements
