@@ -4,9 +4,6 @@ VNC Server for the Miyoo Mini Plus
 ## Source
 https://github.com/ponty/framebuffer-vncserver/
 
-## Modified source
-https://github.com/XK9274/framebuffer-vncserver-miyoo
-
 Added a method for rotation by default, there's now 2 bins. It will default to the new one but in launch.sh you can comment in/out whatever you want.
 
 ##
