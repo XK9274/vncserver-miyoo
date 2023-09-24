@@ -1,0 +1,3 @@
+[submodule "src"]
+	path = src
+	url = https://github.com/XK9274/framebuffer-vncserver-miyoo.git
