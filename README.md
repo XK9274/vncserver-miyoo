@@ -30,7 +30,6 @@ It will display upside down due to how MainUI is drawn.. you'll need to use a VN
 
 - Keyboard support works but only for SDLK inputs programmed into whatever you're using (so arrow keys work, space is enter) 
 - I suspect if SDL keys were programmed for the keyboard inputs for each key (such as in simple terminal) you'd be able to use these inputs too. 
-- -r does not rotate as the source only includes functions for rotating 16bpp
 
 ## Images
 ![image](https://github.com/XK9274/vncserver-miyoo/assets/47260768/dc15322d-c596-4681-9932-c4fd45300df1)
