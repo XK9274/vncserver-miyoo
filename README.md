@@ -1,6 +1,12 @@
 # vncserver-miyoo
 VNC Server for the Miyoo Mini Plus 
 
+## Source
+https://github.com/ponty/framebuffer-vncserver/
+
+## Modified source
+https://github.com/XK9274/framebuffer-vncserver-miyoo
+
 Added a method for rotation by default, there's now 2 bins. It will default to the new one but in launch.sh you can comment in/out whatever you want.
 
 ##
@@ -28,9 +34,6 @@ It will display upside down due to how MainUI is drawn.. you'll need to use a VN
 - Keyboard support works but only for SDLK inputs programmed into whatever you're using (so arrow keys work, space is enter) 
 - I suspect if SDL keys were programmed for the keyboard inputs for each key (such as in simple terminal) you'd be able to use these inputs too. 
 - -r does not rotate as the source only includes functions for rotating 16bpp
-
-## Source
-https://github.com/ponty/framebuffer-vncserver/
 
 ## Images
 ![image](https://github.com/XK9274/vncserver-miyoo/assets/47260768/dc15322d-c596-4681-9932-c4fd45300df1)
