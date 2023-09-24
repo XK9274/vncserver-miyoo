@@ -1,6 +1,8 @@
 # vncserver-miyoo
 VNC Server for the Miyoo Mini Plus 
 
+## Will now correctly rotate without external tools
+
 ## Source
 https://github.com/ponty/framebuffer-vncserver/
 
